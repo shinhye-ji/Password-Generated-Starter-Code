@@ -12,7 +12,8 @@ In this repository, you will find the source code of a random password generator
 
 ## Screenshots
 
-![random word generator webpage: first prompt](./Develop/images/random-password-generator-webpage.png)
+![random word generator webpage: first prompt](./images/random-password-generator-webpage.png)
+
 
 ## Contact 
 
@@ -21,5 +22,5 @@ In this repository, you will find the source code of a random password generator
 
 ## Live Link
 
-<>
+<https://shinhye-ji.github.io/Password-Generated-Starter-Code/>
 
